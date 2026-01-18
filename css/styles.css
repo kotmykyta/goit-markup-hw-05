@@ -607,7 +607,7 @@ img {
     color: #ffffff;
 }
 .footer-subscribe-input:focus {
-    border-color: #4d5ae5;
+    border-color: #31d0aa;
 }
 .footer-subscribe-btn {
     min-width: 165px;
@@ -635,7 +635,7 @@ img {
 }
 .footer-subscribe-btn:hover,
 .footer-subscribe-btn:focus {
-    background-color: #404bbf;
+    background-color: #31d0aa;
 }
 .footer-subscribe-icon {
     fill: #ffffff;
