@@ -494,7 +494,7 @@ img {
 .footer-container {
     display: flex;
     align-items: baseline;
-    gap: 120px;
+    gap: 80px;
 }
 .footer-social-title {
     margin-bottom: 16px;
@@ -568,8 +568,7 @@ img {
     letter-spacing: 0.02em;
 }
 .footer-social {
-    margin-right: 80px;
-    
+    margin-right: 0;
 }
 .footer-subscribe-title {
     margin-bottom: 16px;
@@ -912,4 +911,7 @@ img {
 .modal-submit:focus {
     background-color: #404bbf;
 }
-
+.footer-subscribe {
+    margin-left: auto;
+    
+}
