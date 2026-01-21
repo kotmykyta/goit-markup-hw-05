@@ -494,7 +494,7 @@ img {
 .footer-container {
     display: flex;
     align-items: baseline;
-    gap: 80px;
+    gap: 120px;
 }
 .footer-social-title {
     margin-bottom: 16px;
@@ -609,9 +609,8 @@ img {
     border-color: #31d0aa;
 }
 .footer-subscribe-btn {
-    min-width: 165px;
-    height: 40px;
-    padding: 0 24px;
+    min-height: 40px;
+    padding: 8px 24px;
 
     display: flex;
     align-items: center;
